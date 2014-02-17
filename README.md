@@ -1,3 +1,7 @@
+#UPDATE
+
+I have updated this repo to reflect the new URLs for the GDELT project. So people can use this script to download the GDELT files again, until John B is able to update the original script.
+
 ##GDELT Download
 
 The GDELT data is spread across multiple files, with a new file added each day.
